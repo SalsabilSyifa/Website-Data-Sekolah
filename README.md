@@ -37,6 +37,9 @@ Aplikasi Laundry ini dirancang untuk menyelesaikan tugas PJBL untuk mengelola tr
 | Tambah siswa | ![Transaksi](img/tambahsiswa.png) | ![Tambahan](img/mobiletambahsiswa.png) |
 | Tambah jurusan | ![Transaksi](img/tambahjurusan.png) | ![Tambahan](img/mobiletambahjurusan.png) |
 | Tambah agama | ![Transaksi](img/tambahagama.png) | ![Tambahan](img/mobiletambahagama.png) |
+| Edit siswa | ![Transaksi](img/editsiswa.png) | ![Tambahan](img/mobileeditsiswa.png) |
+| Edit jurusan | ![Transaksi](img/editjurusan.png) | ![Tambahan](img/mobileeditjurusan.png) |
+| Edit agama | ![Transaksi](img/editagama.png) | ![Tambahan](img/mobileeditagama.png) |
 
 
 
@@ -52,3 +55,4 @@ Aplikasi Laundry ini dirancang untuk menyelesaikan tugas PJBL untuk mengelola tr
 ![Dashboard Landscape](img/strukturtabelagama.png)
 
 
+## TERIMAKASIH
